@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application 
+			progid="Word.Document"
+		?><w:wordDocument xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <o:DocumentProperties>
+        <o:Title>An open letter to all Indians</o:Title>
+    </o:DocumentProperties>
+    <w:styles>
+        <w:versionOfBuiltInStylenames w:val="4"/>
+        <w:latentStyles w:defLockedState="off" w:latentStyleCount="156"/>
+        <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+            <w:name w:val="Normal"/>
+            <w:rsid w:val="00831C9D"/>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+                <w:sz w:val="24"/>
+                <w:sz-cs w:val="24"/>
+                <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading1">
+            <w:name w:val="heading 1"/>
+            <wx:uiName wx:val="Heading 1"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+                <w:keepNext/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="0"/>
+            </w:pPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+                <wx:font wx:val="Arial"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:kern w:val="32"/>
+                <w:sz w:val="32"/>
+                <w:sz-cs w:val="32"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading2">
+            <w:name w:val="heading 2"/>
+            <wx:uiName wx:val="Heading 2"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+                <w:keepNext/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="1"/>
+            </w:pPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+                <wx:font wx:val="Arial"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:i/>
+                <w:i-cs/>
+                <w:sz w:val="28"/>
+                <w:sz-cs w:val="28"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading3">
+            <w:name w:val="heading 3"/>
+            <wx:uiName wx:val="Heading 3"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading3"/>
+                <w:keepNext/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="2"/>
+            </w:pPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+                <wx:font wx:val="Arial"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:sz w:val="26"/>
+                <w:sz-cs w:val="26"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading4">
+            <w:name w:val="heading 4"/>
+            <wx:uiName wx:val="Heading 4"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading4"/>
+                <w:keepNext/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="3"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:sz w:val="28"/>
+                <w:sz-cs w:val="28"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading5">
+            <w:name w:val="heading 5"/>
+            <wx:uiName wx:val="Heading 5"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading5"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="4"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:i/>
+                <w:i-cs/>
+                <w:sz w:val="26"/>
+                <w:sz-cs w:val="26"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading6">
+            <w:name w:val="heading 6"/>
+            <wx:uiName wx:val="Heading 6"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading6"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="5"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:sz w:val="22"/>
+                <w:sz-cs w:val="22"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading7">
+            <w:name w:val="heading 7"/>
+            <wx:uiName wx:val="Heading 7"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading7"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="6"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading8">
+            <w:name w:val="heading 8"/>
+            <wx:uiName wx:val="Heading 8"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading8"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="7"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+                <w:i/>
+                <w:i-cs/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading9">
+            <w:name w:val="heading 9"/>
+            <wx:uiName wx:val="Heading 9"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading9"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="8"/>
+            </w:pPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+                <wx:font wx:val="Arial"/>
+                <w:sz w:val="22"/>
+                <w:sz-cs w:val="22"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+            <w:name w:val="Default Paragraph Font"/>
+            <w:semiHidden/>
+        </w:style>
+        <w:style w:type="table" w:default="on" w:styleId="TableNormal">
+            <w:name w:val="Normal Table"/>
+            <wx:uiName wx:val="Table Normal"/>
+            <w:semiHidden/>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+            </w:rPr>
+            <w:tblPr>
+                <w:tblInd w:w="0" w:type="dxa"/>
+                <w:tblCellMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="108" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="108" w:type="dxa"/>
+                </w:tblCellMar>
+            </w:tblPr>
+        </w:style>
+        <w:style w:type="list" w:default="on" w:styleId="NoList">
+            <w:name w:val="No List"/>
+            <w:semiHidden/>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Title">
+            <w:name w:val="Title"/>
+            <w:basedOn w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Title"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="0"/>
+            </w:pPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+                <wx:font wx:val="Arial"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:kern w:val="28"/>
+                <w:sz w:val="32"/>
+                <w:sz-cs w:val="32"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="BodyText">
+            <w:name w:val="Body Text"/>
+            <w:basedOn w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="BodyText"/>
+                <w:spacing w:after="120"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+            </w:rPr>
+        </w:style>
+    </w:styles>
+    <w:body>
+        <wx:sect>
+            
+            <wx:sub-section>
+                <w:p>
+                    <w:pPr>
+                        <w:pStyle w:val="Title"/>
+                    </w:pPr>
+                    <w:r>
+                        <w:t>An open letter to all Indians</w:t>
+                    </w:r>
+                </w:p>
+                <wx:sub-section>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Heading1"/>
+                        </w:pPr>
+                        <w:r>
+                            <w:t>Why this format</w:t>
+                        </w:r>
+                    </w:p>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>If you cant navigate this "mind map", then you wont be able to comprehend the ideas too. Better you leave.</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                </wx:sub-section>
+                <wx:sub-section>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Heading1"/>
+                        </w:pPr>
+                        <w:r>
+                            <w:t>Why i am writing this</w:t>
+                        </w:r>
+                    </w:p>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Age/Legacy - if a human is raised right, he/she would like to leave things better than he found them</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>My generation has been really selfish, sold out to capitalism and their version of "success"</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Big Car</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Big house</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Big Loans</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Unhappy inside</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Ego</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Big titles, little intent</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Anger</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Abusive on roads, with spouses</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Office politics</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>PII model</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>me, me , me</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Capitalism, Ayn Rand model</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Disappointment</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Startups</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Suicides</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Popularity of "Shark tank"</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Chutiya show</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Sick outside</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Foodies, a sinful word made fashionable and dumb people bought it</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>I want to do my part - my duties to my son, my land, my people - no matter how sadistic and bankrupt tools most of them have become</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                </wx:sub-section>
+                <wx:sub-section>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Heading1"/>
+                        </w:pPr>
+                        <w:r>
+                            <w:t>What is Indian Value System (IndianNess)</w:t>
+                        </w:r>
+                    </w:p>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Live and let live</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Mind others</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Give a thought to others as well, how your actions may affect them</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Sustainability</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Respect the land</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Respect all lives</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Leave it better</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Next generations should be better off</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Remember these points , they would be important later</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                </wx:sub-section>
+                <wx:sub-section>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Heading1"/>
+                        </w:pPr>
+                        <w:r>
+                            <w:t>These values translate into diversity - people, land, culture which we all enjoy and cherish</w:t>
+                        </w:r>
+                    </w:p>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Food</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Language</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Accent</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Different flavours of flamboyance</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Different solutions to similar problems</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                </wx:sub-section>
+                <wx:sub-section>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Heading1"/>
+                        </w:pPr>
+                        <w:r>
+                            <w:t>The fault lines - Religions which conflict with Indian Values</w:t>
+                        </w:r>
+                    </w:p>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Live and let live</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Our sacrifice and tolerance - Kids and their families</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>A lesson would be taught.</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Advise - Get straight soon, else you will be straightened.</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>If you are too stupid to understand the real picture - Water is at 99C, just 1 more push and game over.</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Chutiyas would get massacred, families would suffer</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>And that raises a next generation of Jihadis, fed on the famous book.</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>This is a never ending loop. Ask afganis</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Gazwa -e - Hind</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Seriously, your mass produced improvised 1.5kg kids can like stand up to our next generation? Just visit a local GYM and get the picture.</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Get Real!!</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Khwaab tha shayad, khwaab hi rahega</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>"Kafir" stuff</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Christians fed you, You looted from us, we let it slide. No more - this has to go.</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Conversions</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Keep fucking goats etc for all we care. Just stay away from our daughters, sisters and feminist wives!</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Love Jihaad</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Only if 1 recognizes Indianism over religion, this should be allowed under close community watch.</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>No unwilling lifestyle changes allowed!!</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>UP Model</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Rana Ayyub, All your oswaisis, maulanas etc</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>You should be willing to denounce her and others like her who manipulate your small brains into doing stuff</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>You actually have less intellect, ie the radical ones</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Proof?</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>earth is flat ??</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Earth doesnt move</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>72 hoors</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Jihad</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Marne katne aur chudie karne ke alwa kuch kaam assigned hai tum logo ko?</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Female genitalia mutilations!!!</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>4 marriages</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>3x Talaq</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Maulanas??</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Sharia</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Behenchod marriages</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>.....this is a long list</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Why it happened to you</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Your ancestors were born in desert with sand up their ass</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Just search of water and killing to eat were the ways of your ancestors</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Someone wrote a book about it</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>That hunting, killing fucking life still blinds your lifestyle</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Adherence to that book would make you dumb. or illogical or delusional or hypocrite</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Why other races/religions are actually superior</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Science and tech</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Progressive</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>They dictate values, not life goals</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Our brains are better developed</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Scientists</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Patents</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>CXOs</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>.</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>.</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Many things here, dont debate this.</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Mind others</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Give a thought to others as well, how your actions may affect them</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Azaan at 5 PM</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Hijaab</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Do you think that Hindu women can be eyed freely and your females are special?</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>IMHO in this religion, females are actually treated as animals</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>No Jannat</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>No "Hoors"</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Female Genatalia Manipulation</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>4 marriages for males??? Yeah baby!!</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Sustainability</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Respect the land and nature</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>No more Bakra ID</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Get veg soon, switch to chicken, eggs</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Respect all lives</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Stop with all BS. Reform your people and their values.</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>We did not come from caves with sand in our asses, so adapt as per local culture</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Respect females, all living things</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Leave it better</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Less kids, more resources for everyone. Reproduce responsibly.</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                </wx:sub-section>
+                <wx:sub-section>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Heading1"/>
+                        </w:pPr>
+                        <w:r>
+                            <w:t>Now</w:t>
+                        </w:r>
+                    </w:p>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>IndianNess is "Hindutva"</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Now it would pinch</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>BJP is actually helping your people</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>People are still suffering - all religions</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>And now you would call me a Bhakt/Sanghi whatever</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Sudhar jao!!</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Modi Ji, Yogi Ji are our leaders</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>We have many like them</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Selfless</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Logical</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Uncompromising</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Me and my brethren are awake now, this knowledge is only going to spread</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Your move, we are ready....</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Vande matram</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Bharat Mata ki Jai</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Shiva has awakened</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>....by Shavan - Shiva's dog</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                </wx:sub-section>
+            </wx:sub-section>
+            
+        </wx:sect>
+    </w:body>
+</w:wordDocument>
